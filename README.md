@@ -1,8 +1,12 @@
-# Basic Sample Hardhat Project
+# ERC721A NFT Smart Contract for KaijuKongz Site
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Kaijukong Mint site is created by using React, Node.js, web3.js, ether.js, this NFT is based on ERC721A which is sold 3333 NFTs in 3 rs.
 
-Try running some of the following tasks:
+https://kaijukongz.io/ <br />
+
+https://opensea.io/collection/kaijukongz <br />
+
+https://etherscan.io/address/0x582b874Af6A8D0eC283febE1988fb4A67c06e050#code <br />
 
 ```shell
 npx hardhat accounts
